@@ -50,4 +50,4 @@ I'm a Jr. Software Developer with 6+ months of experience, specializing in the c
 
 Feel free to reach out to me for collaboration, mentorship, or any other opportunities.
 
-https://www.linkedin.com/in/diego-santamar%C3%ADa-miguel-803243132/
+ [LinkedIn](https://www.linkedin.com/in/diego-santamar%C3%ADa-miguel-803243132/)
