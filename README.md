@@ -1,6 +1,5 @@
 # Hi, I'm Diego Santamaria 👋
 
-## Jr. Software Developer at Tuyo Technologies
 
 ---
 
@@ -12,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Jr. Software Developer with 6+ months of experience, specializing in the creation and deployment of multiple landing pages and client dashboards. My technology stack includes but is not limited to React, TypeScript, and Tailwind CSS. I'm also familiar with Component-Based Architecture as used in Vue.js, Svelte, Preact, and Angular. 
+I'm a Software Developer with 6+ months of experience, specializing in the creation and deployment of multiple landing pages and client dashboards. My technology stack includes but is not limited to React, TypeScript, and Tailwind CSS. I'm also familiar with Component-Based Architecture as used in Vue.js, Svelte, Preact, and Angular. 
 
 ---
 
