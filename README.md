@@ -4,7 +4,7 @@
 ---
 
 📍 **Location**: San Salvador, ES  
-🌐 **Portfolio**: [tuyo.dev](https://tuyo.dev/)  
+🌐 **Portfolio**: [santamariacodes.com](www.santamariacodes.com)  
 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/diego-santamar%C3%ADa-miguel-803243132/)
 
 ---
