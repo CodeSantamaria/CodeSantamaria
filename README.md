@@ -5,7 +5,7 @@ Currently in **El Salvador** | **Work Eligibility**: European Union (Spanish cit
 **Open to**: Remote roles or relocation within Europe  
 
 🌐 **Portfolio**: [santamariacodes.com](https://www.santamariacodes.com)  
-📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/diego-santamar%C3%ADa-miguel-803243132/)
+📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/diego-santamaria-miguel/)
 
 ---
 
@@ -56,4 +56,4 @@ While currently based in **El Salvador**, I hold **Spanish citizenship**, allowi
 ## 📣 Let's Connect!  
 Feel free to reach out to me for collaboration, mentorship, or any other opportunities.  
 
-🌐 **Portfolio** | [LinkedIn](https://www.linkedin.com/in/diego-santamar%C3%ADa-miguel-803243132/)
+🌐 **Portfolio** | [LinkedIn](https://www.linkedin.com/in/diego-santamaria-miguel)
