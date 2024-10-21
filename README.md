@@ -1,52 +1,53 @@
-# Hi, I'm Diego Santamaria 👋
 
+Hi, I'm Diego Santamaria 👋
+----
+📍 Location: Currently in El Salvador | Work Eligibility: European Union (Spanish citizen)
+Open to: Remote roles or relocation within Europe
+🌐 Portfolio: santamariacodes.com
+📫 How to reach me: LinkedIn
+----
+👨‍💻 About Me
 
----
+I'm an iOS Developer with hands-on experience in SwiftUI, MVVM architecture, and networking with Moya. I build intuitive, high-performance apps, continuously refining my skills and adopting best practices.
+While currently based in El Salvador, I hold Spanish citizenship, allowing me to work freely across the EU. Fluent in English from extensive experience in international roles, ensuring clear communication within global and remote teams. I'm actively seeking remote roles or relocation opportunities within Europe to contribute to innovative projects and grow within market-leading environments.
+----
 
-📍 **Location**: San Salvador, ES  
-🌐 **Portfolio**: [santamariacodes.com](https://www.santamariacodes.com)  
-📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/diego-santamar%C3%ADa-miguel-803243132/)
+🛠 Skills
 
----
+Languages: Swift, JavaScript, TypeScript
+Mobile Development: SwiftUI
+Architecture Patterns: MVVM
+Networking: Moya
+Version Control: Git, GitHub
+Other Tools: Xcode, Firebase (Authentication)
+Project Management: Jira, Agile methodologies
+----
 
-## 👨‍💻 About Me
+🌱 Learning Goals
 
-I'm a Software Developer with 1 year of experience, specializing in the creation and deployment of multiple landing pages and client dashboards. My technology stack includes but is not limited to React, TypeScript, and Tailwind CSS. I'm also familiar with Component-Based Architecture as used in Vue.js, Svelte, Preact, and Angular. 
+Deepen my expertise in mobile development through advanced Swift practices.
+Build and publish personal projects to the App Store.
+Explore backend development with Python and integrate databases (e.g., SQLite, Firebase).
+----
+💼 Work Experience
 
----
+- Freelance iOS Developer (1+ year)
+Built an iOS app with SwiftUI, implementing Firebase Authentication and securely storing session tokens using Keychain.
+Developed networking features with Moya, integrating the TMDB API with pagination.
+Followed MVVM architecture to create scalable and maintainable components.
+Designed a responsive and high-performance UI optimized for multiple iPhone devices.
+- Jr. Front-end Software Developer at Tuyo Technologies (May 2023 – Dec 2023)
+Developed and deployed multiple landing pages and custom dashboards for clients.
+Collaborated with cross-functional teams using Jira and Agile methodologies.
+Utilized React and Tailwind CSS to build reusable components.
+- IT Helpdesk Technician (Current Role)
+Provided technical support and resolved IT issues for internal staff, ensuring smooth operations.
+Enhanced communication and problem-solving skills by interacting with non-technical users.
+Managed system maintenance, troubleshooting network issues, and supporting software installations.
+----
 
-## 🛠 Skills
-
-- **Languages**: JavaScript, TypeScript
-- **Frameworks/Libraries**: React, Vue.js, Svelte, Preact, Angular
-- **UI**: Tailwind CSS
-- **Project Management**: Jira, Scrum
-- **Other**: Front-end Development, Component-Based Architecture
-
----
-
-## 🌱 Learning Goals
-
-- Dive deeper into front-end technologies
-- Expand my portfolio with diverse projects
-- Develop strong foundations in data structures and algorithms
-
----
-
-## 💼 Work Experience
-
-### Jr Front-end Software Developer (November 2022– Present)
-
-**Tuyo Technologies, San Salvador, ES**
-
-- Spearheaded the programming and development of the company landing page. [Check it out](https://tuyo.dev/)
-- Worked on a comprehensive dashboard featuring graphics for Key Performance Indicators (KPIs).
-- Created a landing page tailored to the specific needs of the holding company.
-
----
-
-## 📣 Let's Connect!
+📣 Let's Connect!
 
 Feel free to reach out to me for collaboration, mentorship, or any other opportunities.
 
- [LinkedIn](https://www.linkedin.com/in/diego-santamar%C3%ADa-miguel-803243132/)
+🌐 Portfolio | LinkedIn
