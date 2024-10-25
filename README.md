@@ -41,7 +41,7 @@ While currently based in **El Salvador**, I hold **Spanish citizenship**, allowi
 - Followed **MVVM architecture** to create scalable and maintainable components.  
 - Designed a responsive and high-performance UI optimized for multiple iPhone devices.
 
-### Jr. Front-end Software Developer at Tuyo Technologies (Nov 2022 – June 2023)  
+### Jr. Front-end Software Developer at Tuyo Technologies (Dec 2022 – July 2023)  
 - Developed and deployed multiple landing pages and custom dashboards for clients.  
 - Collaborated with cross-functional teams using **Jira** and **Agile methodologies**.  
 - Utilized **React** and **Tailwind CSS** to build reusable components.
