@@ -4,7 +4,7 @@
 Currently in **El Salvador** | **Work Eligibility**: European Union (Spanish citizen)  
 **Open to**: Remote roles or relocation within Europe  
 
-🌐 **Portfolio**: [santamariacodes.com](https://www.santamariacodes.com)  
+🌐 **Portfolio**: [santamariacodes.com](https://github.com/SantamariaCodes/ShowTracker)  
 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/diego-santamaria-miguel/)
 
 ---
