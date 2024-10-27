@@ -12,7 +12,7 @@ Currently in **El Salvador** | **Work Eligibility**: European Union (Spanish cit
 ## 👨‍💻 About Me  
 I'm an **iOS Developer** with hands-on experience in **SwiftUI**, **MVVM architecture**, and **networking with Moya**. I build intuitive, high-performance apps, continuously refining my skills and adopting best practices.
 
-While currently based in **El Salvador**, I hold **Spanish citizenship**, allowing me to work freely across the EU. Fluent in **English**, with extensive experience in international roles, I excel in communication within global and remote teams. I'm actively seeking **remote roles** or **relocation opportunities within Europe** to contribute to innovative projects and grow within market-leading environments.
+While currently based in **El Salvador**, I hold **Spanish citizenship**, allowing me to work freely across the EU. Fluent in **English**, with extensive experience in international roles and collaborating with remote teams. I'm actively seeking **remote roles** or **relocation opportunities within Europe** to contribute to innovative projects and grow within market-leading environments.
 
 ---
 
